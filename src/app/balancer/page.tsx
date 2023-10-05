@@ -5,7 +5,6 @@ import Balancer from "react-wrap-balancer";
 export default function Page() {
   return (
     <div className="p-8 ">
-      <p>4 oct</p>
       <section>
         <h2 className="text-2xl font-bold">
           This is my titlte - Lorem ipsum dolor sit amet. ❌
